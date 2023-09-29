@@ -1,0 +1,149 @@
+.page4{
+    width: auto;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #23262F ;
+}
+.page4Left{
+    margin-top: 60px;
+    padding-right: 40px;
+    padding-left: 20px;
+}
+.page4Img{
+    width: 450px;
+    height: 555px;
+}
+.page4Right{
+    border: 3px solid #141416;
+    border-radius: 20px;
+    width: 450px;
+    height: 600px;
+    margin-top: 60px;
+    background-color: #141416;
+}
+.page4Text{
+    flex-basis: 20%;
+    padding: 30px;
+}
+.page4head{
+    font-family: SF Pro Display;
+    font-size: 40px;
+    font-weight: 600;
+    line-height: 56px;
+    letter-spacing: -0.02em;
+    text-align: left;
+    color: #FCFCFD
+}
+.page4para{
+    font-family: Poppins;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #777E90;
+}
+
+.level1{
+    display: flex;
+    align-items: center;
+    justify-content: left;
+}
+.level2{
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    border: 2px solid #353945;
+    border-radius: 10px;
+    padding: 25px 0px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+.level3{
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    
+}
+
+.imgIcon{
+    margin-left: 5px;
+    margin-right: 20px;
+    height: 30px;
+    padding-bottom: 20px;
+    
+}
+.stageHeader{
+    padding: 0;
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FCFCFD;
+    
+}
+.stagePara{
+    padding: 0;
+    font-family: Poppins;
+    font-size: 12px;
+    font-weight: 300;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #777E90;
+}
+.bottom{
+    margin-top: 30px;
+}
+.awof{
+    font-family: Poppins;
+    font-size: 12px;
+    font-weight: 300;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #777E90;
+}
+.bonus{
+    color: #45B26B;
+    font-weight: 400;
+}
+span{
+    color: #FCFCFD;
+    font-weight: 400;
+}
+.bttn1{
+    width: 155px;
+    height: 48px;
+    padding: 12px, 24px, 12px, 24px ;
+    border-radius: 90px;
+    background-color: #FF592C;
+    border: none;
+    margin-top: 20px;
+    margin-left: 230px;
+}
+.bttn1 span{
+    color: #FCFCFD;
+    font-family: SF Pro Display;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 16px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

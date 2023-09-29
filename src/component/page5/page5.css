@@ -1,0 +1,91 @@
+.page5{
+    width: auto;
+    height: 85vh;
+    padding: 136px, 160px, 136px, 160px;
+    gap: 80px;
+    background-color: #141416;
+}
+.page5Up{
+    width: auto;
+    height: 132px;
+    
+}
+.page5h6{
+    font-family: SF Pro Display;
+    font-size: 8px;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #777E90;
+    padding-top: 90px;
+}
+.page5h1{
+    font-family: SF Pro Display;
+    font-size: 34px;
+    font-weight: 600;
+    line-height: 36px;
+    letter-spacing: -0.02em;
+    text-align: center;
+    color: #FCFCFD;
+}
+.page5First{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 150px;
+    padding-left: 80px;
+}
+.page5Container{
+    margin-left: -40px;
+    height: 250px;
+    width: 370px;
+    border-right: 1px solid #353945;
+    /* padding-right: 100px; */
+    padding-left: 80px; 
+}
+.page5Container2{
+    margin-right: -110px;
+    height: 250px;
+    width: 370px;
+    border-right: 1px solid #353945;
+    /* padding-right: 100px; */
+    padding-left: 100px;
+    
+}
+
+.page5Container3{
+    margin-left: 200px;
+    height: 250px;
+    width: 370px;
+    /* padding-right: -500px; */
+    /* padding-left: 100px; */
+    
+}
+
+.page5logo{
+    width: 48px;
+    height: 48px;
+    padding-top: 20px;
+}
+.page5Para{
+    font-family: SF Pro Display;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FCFCFD;
+    padding: 20px 0px;
+
+}
+.page5Caption{
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #777E90;
+
+}
